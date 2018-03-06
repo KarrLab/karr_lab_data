@@ -123,7 +123,7 @@ if ($_GET['token'] && $_GET['token'] == file_get_contents('token')) {
 
 function list_files($show_private, $dir, $access){
     foreach (scandir($dir) as $file) {
-        if ($file != '.' && $file != '..') {
+        if ($file != '.' && $file != '..' && is_dir("$dir/$file")) {
             $version = count(scandir("$dir/$file")) - 3;
             $created = date('Y-m-d H:i:s', filemtime("$dir/$file/0"));
             $updated = date('Y-m-d H:i:s', filemtime("$dir/$file/$version"));
