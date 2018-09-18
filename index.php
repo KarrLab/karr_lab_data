@@ -111,11 +111,18 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><a href="https://quiltdata.com/package/karrlab/kinetic_datanator">kinetic_datanator</a></td>
-                                        <td><a href="https://quiltdata.com/package/karrlab/kinetic_datanator"><i class="fi-link"></i></a></td>
+                                        <td><a href="https://quiltdata.com/package/karrlab/datanator">datanator</a></td>
+                                        <td><a href="https://quiltdata.com/package/karrlab/datanator"><i class="fi-link"></i></a></td>
                                     </tr>
                                     <tr>
-                                        <td colspan="2">Data aggregated with Kinetic Datanator <a href="https://github.com/KarrLab/kinetic_datanator"><i class="fi-link"></i></a>, tools for aggregating data for cell modeling</td>
+                                        <td colspan="2">Data aggregated with Datanator <a href="https://github.com/KarrLab/datanator"><i class="fi-link"></i></a>, tools for aggregating data for cell modeling</td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="https://quiltdata.com/package/karrlab/h1_hesc">h1_hesc</a></td>
+                                        <td><a href="https://quiltdata.com/package/karrlab/h1_hesc"><i class="fi-link"></i></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2">Data for the H1-hESC whole-cell model <a href="https://github.com/KarrLab/h1_hesc"><i class="fi-link"></i></a></td>
                                     </tr>
                                 </tbody>
                             </table>
