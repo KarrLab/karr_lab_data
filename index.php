@@ -134,13 +134,13 @@
                     <!-- bottom bar -->
                     <div class="row bottom-bar">
                         <div class="logo">
-                            <a href="http://www.mssm.edu"><img src="https://www.karrlab.org/static/img/logo-mssm-32x32.png" /></a>
+                            <a href="https://www.mssm.edu"><img src="https://www.karrlab.org/static/img/logo-mssm-32x32.png" /></a>
                         </div>
 
                         <div class="text-left">
-                            <a href="http://icahn.mssm.edu/departments-and-institutes/genomics">Icahn Institute for Genomics &amp; Multiscale Biology</a><br/>
-                            <a href="http://icahn.mssm.edu/departments-and-institutes/genomics">Department of Genetics &amp; Genomic Sciences</a><br/>
-                            <a href="http://www.mssm.edu">Icahn School of Medicine at Mount Sinai</a>
+                            <a href="https://icahn.mssm.edu/departments-and-institutes/genomics">Icahn Institute for Genomics &amp; Multiscale Biology</a><br/>
+                            <a href="https://icahn.mssm.edu/departments-and-institutes/genomics">Department of Genetics &amp; Genomic Sciences</a><br/>
+                            <a href="https://www.mssm.edu">Icahn School of Medicine at Mount Sinai</a>
                         </div>
 
                         <div class="text-right show-for-medium-up">
